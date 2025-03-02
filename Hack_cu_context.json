@@ -1,0 +1,42 @@
+{
+    "repository": {
+        "name": "Hack_cu",
+        "description": null,
+        "default_branch": "main",
+        "url": "https://github.com/RuchaKhairnar/Hack_cu"
+    },
+    "branches": [
+        {
+            "name": "main",
+            "ahead_by": 0,
+            "behind_by": 0
+        }
+    ],
+    "recent_commits": [
+        {
+            "sha": "d707a60",
+            "message": "Yash test commit #1",
+            "author": "Yash Panchal"
+        },
+        {
+            "sha": "0d5e563",
+            "message": "test added",
+            "author": "RuchaKhairnar"
+        }
+    ],
+    "local_changes": [
+        "Org_python.py"
+    ],
+    "pull_requests": [],
+    "contributors": [
+        {
+            "name": "RuchaKhairnar",
+            "contributions": 1
+        },
+        {
+            "name": "YASHY2K",
+            "contributions": 1
+        }
+    ],
+    "open_issues": []
+}
